@@ -1,0 +1,119 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "1yfm9bCTHWPBlZn_EgzVCouFGlgTh..CDiBlDEzRoj8-1786515164-1.0.1.1-ChZAL6j5ssAp1hncdAZMqe1OYhS0leJ2Tn6rKdAmgp2XLXdFqLu4ckR1Zkd0yUSLTcXhie90uw76aMX1YzlSDWugc2.2fpv_xIy5.gL10TI",
+      "domain": ".glad-sailfish-86.clerk.accounts.dev",
+      "path": "/",
+      "expires": 1786517018.450283,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "cZrx2iMQvPaf7zlXZEKcL6kt_xvebXR_3N9nGSTlPVI-1786515164685-0.0.1.1-604800000",
+      "domain": ".glad-sailfish-86.clerk.accounts.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "me6Mic5urxlh2pBmeyDJQYdd9XvAJQytih5cXVS2B9w-1786515164.954398-1.0.1.1-cNDUcuXfwrCqBZZfNOU5ZPerOal2haCqqcFiUcMafaoQnXbDvTPbFK9vQETEY4f8U4ewWQ2T1VfO7aGmj8L7G6Jb5j9y7kxzBSy_g9md08U.o2ghBuNhMqKocQ2VCNWR",
+      "domain": ".img.clerk.com",
+      "path": "/",
+      "expires": 1786517019.352782,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__client_uat_jHfM1rLR",
+      "value": "1786515179",
+      "domain": ".aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__client_uat",
+      "value": "1786515179",
+      "domain": ".aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "clerk_active_context",
+      "value": "sess_3HnsU7lG74ylndiSOJTqZ64x9nl:",
+      "domain": "aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__clerk_db_jwt_jHfM1rLR",
+      "value": "dvb_3HnsSEtNCTtRNOW3ZfnlwXrESFE",
+      "domain": "aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__clerk_db_jwt",
+      "value": "dvb_3HnsSEtNCTtRNOW3ZfnlwXrESFE",
+      "domain": "aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__session",
+      "value": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18zQWZaTm1jcFNhZ1hLV0RGRWh2NVg4eHVhQUIiLCJvaWF0IjoxNzg2NTE1MjIyLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vYXZpcm8tdWktcWEudXMtZWFzdC0yLmVsYXN0aWNiZWFuc3RhbGsuY29tIiwiZXhwIjoxNzg2NTE1MjgyLCJmdmEiOlswLDBdLCJpYXQiOjE3ODY1MTUyMjIsImlzcyI6Imh0dHBzOi8vZ2xhZC1zYWlsZmlzaC04Ni5jbGVyay5hY2NvdW50cy5kZXYiLCJuYmYiOjE3ODY1MTUyMTIsInNpZCI6InNlc3NfM0huc1U3bEc3NHlsbmRpU09KVHFaNjR4OW5sIiwic3RzIjoiYWN0aXZlIiwic3ViIjoidXNlcl8zR0RuVnBHY0lubXplbXg2TVMyZ1pwbGNmUVgiLCJ2IjoyfQ.NpXU8WcwA66yAXi9isF5HzFgFo1fw5ZC8Bs_rAfjn9AJv2bUKH1e51fdQsm4Ut_5IFuEHCyvd7mCPK0vx9HtlHEOCu63bCRB0VDa65KZ-GxKN83dP5B8Q4_7EzgpJ3KvkucdgQbmWmIvBBxcf9eUBcSiY-l_4cZqUsX3qbqKAA4OIwqCAcmm8PMyGWBj6X_bFc0OrwFNLCIUHQ23t3kk61REelUPb0XHMgOcXZj8K2VKZvYH6uTuklBoNnp7VUmfhw-vSKDhAnAhnf2TkkF6nofV67wGRUzGjT7NsNdjgMQ76eDO5wRmtXQMqT7N3aIZnVw2let7GJbW0s053p38dw",
+      "domain": "aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__session_jHfM1rLR",
+      "value": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18zQWZaTm1jcFNhZ1hLV0RGRWh2NVg4eHVhQUIiLCJvaWF0IjoxNzg2NTE1MjIyLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vYXZpcm8tdWktcWEudXMtZWFzdC0yLmVsYXN0aWNiZWFuc3RhbGsuY29tIiwiZXhwIjoxNzg2NTE1MjgyLCJmdmEiOlswLDBdLCJpYXQiOjE3ODY1MTUyMjIsImlzcyI6Imh0dHBzOi8vZ2xhZC1zYWlsZmlzaC04Ni5jbGVyay5hY2NvdW50cy5kZXYiLCJuYmYiOjE3ODY1MTUyMTIsInNpZCI6InNlc3NfM0huc1U3bEc3NHlsbmRpU09KVHFaNjR4OW5sIiwic3RzIjoiYWN0aXZlIiwic3ViIjoidXNlcl8zR0RuVnBHY0lubXplbXg2TVMyZ1pwbGNmUVgiLCJ2IjoyfQ.NpXU8WcwA66yAXi9isF5HzFgFo1fw5ZC8Bs_rAfjn9AJv2bUKH1e51fdQsm4Ut_5IFuEHCyvd7mCPK0vx9HtlHEOCu63bCRB0VDa65KZ-GxKN83dP5B8Q4_7EzgpJ3KvkucdgQbmWmIvBBxcf9eUBcSiY-l_4cZqUsX3qbqKAA4OIwqCAcmm8PMyGWBj6X_bFc0OrwFNLCIUHQ23t3kk61REelUPb0XHMgOcXZj8K2VKZvYH6uTuklBoNnp7VUmfhw-vSKDhAnAhnf2TkkF6nofV67wGRUzGjT7NsNdjgMQ76eDO5wRmtXQMqT7N3aIZnVw2let7GJbW0s053p38dw",
+      "domain": "aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "path": "/",
+      "expires": 1818051277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://aviro-ui-qa.us-east-2.elasticbeanstalk.com",
+      "localStorage": [
+        {
+          "name": "__clerk_environment",
+          "value": "{\"value\":{\"object\":\"environment\",\"auth_config\":{\"claimed_at\":null,\"id\":\"\",\"object\":\"auth_config\",\"reverification\":true,\"single_session_mode\":true,\"session_minter\":false},\"display_config\":{\"object\":\"display_config\",\"after_create_organization_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"after_join_waitlist_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"after_leave_organization_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"after_sign_in_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"after_sign_out_all_url\":\"https://glad-sailfish-86.accounts.dev/sign-in\",\"after_sign_out_one_url\":\"https://glad-sailfish-86.accounts.dev/sign-in/choose\",\"after_sign_up_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"after_switch_session_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"application_name\":\"Aviro360\",\"branded\":false,\"captcha_heartbeat\":false,\"captcha_oauth_bypass\":[],\"captcha_provider\":\"turnstile\",\"captcha_public_key_invisible\":\"0x4AAAAAAAFV93qQdS0ycilX\",\"captcha_public_key\":\"0x4AAAAAAAWXJGBD7bONzLBd\",\"captcha_widget_type\":\"smart\",\"clerk_js_version\":\"5\",\"create_organization_url\":\"https://glad-sailfish-86.accounts.dev/create-organization\",\"favicon_image_url\":\"\",\"home_url\":\"http://aviro-ui-qa.us-east-2.elasticbeanstalk.com\",\"id\":\"display_config_3AfZNleDeDAUeNMdT7mOq8EcMw1\",\"instance_environment_type\":\"development\",\"logo_image_url\":\"https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzNFYjhjcXlZeWt3ZGdEclpoaVp6clhUb0lqWiJ9\",\"organization_profile_url\":\"https://glad-sailfish-86.accounts.dev/organization\",\"preferred_sign_in_strategy\":\"password\",\"privacy_policy_url\":\"\",\"show_devmode_warning\":true,\"sign_in_url\":\"https://glad-sailfish-86.accounts.dev/sign-in\",\"sign_up_url\":\"https://glad-sailfish-86.accounts.dev/sign-up\",\"support_email\":\"\",\"terms_url\":\"\",\"theme\":{\"buttons\":{\"font_color\":\"#ffffff\",\"font_family\":\"\\\"Source Sans Pro\\\", sans-serif\",\"font_weight\":\"600\"},\"general\":{\"color\":\"#6c47ff\",\"padding\":\"1em\",\"box_shadow\":\"0 2px 8px rgba(0, 0, 0, 0.2)\",\"font_color\":\"#151515\",\"font_family\":\"\\\"Source Sans Pro\\\", sans-serif\",\"border_radius\":\"0.5em\",\"background_color\":\"#ffffff\",\"label_font_weight\":\"600\"},\"accounts\":{\"background_color\":\"#ffffff\"}},\"user_profile_url\":\"https://glad-sailfish-86.accounts.dev/user\",\"waitlist_url\":\"https://glad-sailfish-86.accounts.dev/waitlist\"},\"id\":\"\",\"maintenance_mode\":false,\"client_debug_mode\":false,\"partitioned_cookies\":false,\"organization_settings\":{\"actions\":{\"admin_delete\":true},\"domains\":{\"enabled\":false,\"enrollment_modes\":[],\"default_role\":\"\"},\"enabled\":false,\"max_allowed_memberships\":5},\"user_settings\":{\"actions\":{\"delete_self\":true,\"create_organization\":true,\"create_organizations_limit\":null},\"attack_protection\":{\"enumeration_protection\":{\"enabled\":false}},\"attributes\":{\"email_address\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":true,\"first_factors\":[\"email_code\"],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[\"email_code\"],\"verify_at_sign_up\":true,\"immutable\":false,\"name\":\"email_address\"},\"phone_number\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":true,\"first_factors\":[\"phone_code\"],\"used_for_second_factor\":true,\"second_factors\":[\"phone_code\"],\"verifications\":[\"phone_code\"],\"verify_at_sign_up\":true,\"immutable\":false,\"name\":\"phone_number\"},\"username\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":true,\"name\":\"username\"},\"web3_wallet\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"web3_wallet\"},\"first_name\":{\"enabled\":true,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"first_name\"},\"last_name\":{\"enabled\":true,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"last_name\"},\"password\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"password\"},\"authenticator_app\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"authenticator_app\"},\"ticket\":{\"enabled\":true,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"ticket\"},\"backup_code\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"backup_code\"},\"passkey\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"immutable\":false,\"name\":\"passkey\"}},\"passkey_settings\":{\"allow_autofill\":true,\"show_sign_in_button\":true,\"satisfies_second_factor\":false},\"password_settings\":{\"disable_hibp\":false,\"min_length\":8,\"max_length\":72,\"require_special_char\":false,\"require_numbers\":false,\"require_uppercase\":false,\"require_lowercase\":false,\"show_zxcvbn\":false,\"min_zxcvbn_strength\":0,\"enforce_hibp_on_sign_in\":true,\"allowed_special_characters\":\"!\\\"#$%&'()*+,-./:;<=>?@[]^_`{|}~\"},\"sign_in\":{\"second_factor\":{\"required\":false}},\"sign_up\":{\"captcha_enabled\":true,\"captcha_widget_type\":\"smart\",\"custom_action_required\":false,\"progressive\":true,\"mode\":\"restricted\",\"legal_consent_enabled\":false,\"mfa\":{\"required\":false}},\"social\":{\"oauth_bitbucket\":{\"enabled\":true,\"required\":false,\"authenticatable\":true,\"block_email_subaddresses\":false,\"strategy\":\"oauth_bitbucket\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Bitbucket\",\"logo_url\":\"https://img.clerk.com/static/bitbucket.png\"}}},\"commerce_settings\":{\"billing\":{\"stripe_publishable_key\":null,\"organization\":{\"enabled\":false,\"has_paid_plans\":false},\"user\":{\"enabled\":false,\"has_paid_plans\":false}}},\"api_keys_settings\":{\"user_api_keys_enabled\":false,\"orgs_api_keys_enabled\":false},\"protect_config\":{\"object\":\"protect_config\",\"id\":\"\"}},\"exp\":1786601638651}"
+        },
+        {
+          "name": "aviro_auth_tokens",
+          "value": "{\"id_token\":\"\",\"access_token\":\"eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18zQWZaTm1jcFNhZ1hLV0RGRWh2NVg4eHVhQUIiLCJvaWF0IjoxNzg2NTE1MTg0LCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwOi8vYXZpcm8tdWktcWEudXMtZWFzdC0yLmVsYXN0aWNiZWFuc3RhbGsuY29tIiwiZXhwIjoxNzg2NTE1MjQ0LCJmdmEiOlswLDBdLCJpYXQiOjE3ODY1MTUxODQsImlzcyI6Imh0dHBzOi8vZ2xhZC1zYWlsZmlzaC04Ni5jbGVyay5hY2NvdW50cy5kZXYiLCJuYmYiOjE3ODY1MTUxNzQsInNpZCI6InNlc3NfM0huc1U3bEc3NHlsbmRpU09KVHFaNjR4OW5sIiwic3RzIjoiYWN0aXZlIiwic3ViIjoidXNlcl8zR0RuVnBHY0lubXplbXg2TVMyZ1pwbGNmUVgiLCJ2IjoyfQ.H7-VaTv3MtyMXPrgydbEusyg-lcHvqD78jurXaJav8P8YNf4Qzr9mpUsyIzMfT-M8opznTn8eiibsulj9B9L9kdh-mGNpWq5yGn21zcfUaagrGRz_cebxFgBD1gIYe8gdIxUABmW8FHImlaH1fhiuhI9CQ55uTk0J6Pbr8B9q5qP2ylFLsP88o5Fgj0VjzW-lTUnn9C-jlx4P57majEQjTw7gm3H-6Qg-lq4oCve0b2WtnApUWn_eHwO07_ZirJwOjMI3IjtrgH_se3Yf8Il0jjgVNj6d2rV1bNjPcaMrbTkChJUd97MYFcGH0k-hJrin1r-7KLZNRu688yrkEGZJA\",\"refresh_token\":\"\",\"email\":\"samatha_h@trigent.com\"}"
+        }
+      ]
+    }
+  ]
+}
