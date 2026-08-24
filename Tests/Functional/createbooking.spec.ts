@@ -17,4 +17,5 @@ test('Create a booking and verify it is created', async ({ page, context }) => {
   await bookingsPage.assertBookingFound(bookingId);
   await bookingsPage.openBooking(bookingId);
   await bookingsPage.assertBookingDetails();
+  await bookingsPage.assertBookingDetails();
 });
