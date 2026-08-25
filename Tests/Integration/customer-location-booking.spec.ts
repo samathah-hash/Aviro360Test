@@ -1,7 +1,7 @@
 import { test } from '@playwright/test';
-import { LoginPage } from '../../pages/LoginPage';
-import { CustomerPage } from '../../pages/CustomerPage';
-import { BookingsPage } from '../../pages/BookingsPage';
+import { LoginPage } from '../../Pages/LoginPage';
+import { CustomerPage } from '../../Pages/CustomerPage';
+import { BookingsPage } from '../../Pages/BookingsPage';
 
 test('Full flow: login, invite customer, and create booking', async ({ page, context }) => {
   const loginPage = new LoginPage(page);

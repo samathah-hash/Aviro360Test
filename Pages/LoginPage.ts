@@ -1,8 +1,8 @@
 import { Page, BrowserContext } from '@playwright/test';
 import path from 'path';
 import fs from 'fs';
-import { LoginLocators } from '../locators/customerLocators';
-import { BookingsLocators } from '../locators/bookingLocators';
+import { LoginLocators } from '../Locators/customerLocators';
+import { BookingsLocators } from '../Locators/bookingLocators';
 
 const AUTH_FILE = path.join(__dirname, '../playwright/.auth/user.json');
 

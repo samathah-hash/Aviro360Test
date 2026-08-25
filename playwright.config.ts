@@ -6,7 +6,7 @@ const authFile = path.join(__dirname, 'playwright/.auth/user.json');
 const hasAuth = fs.existsSync(authFile);
 
 export default defineConfig({
-  testDir: './tests',
+  testDir: './Tests',
   timeout: 300000, // 5 minutes — covers OTP wait + full booking workflow
   use: {
     channel: 'msedge',

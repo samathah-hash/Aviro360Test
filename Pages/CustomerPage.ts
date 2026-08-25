@@ -1,5 +1,5 @@
 import { Page, expect } from '@playwright/test';
-import { CustomersLocators } from '../locators/customerLocators';
+import { CustomersLocators } from '../Locators/customerLocators';
 
 function randomString(length: number): string {
     const chars = 'abcdefghijklmnopqrstuvwxyz';

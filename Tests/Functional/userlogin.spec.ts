@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
-import { LoginPage } from '../../pages/LoginPage';
-import { BookingsPage } from '../../pages/BookingsPage';
+import { LoginPage } from '../../Pages/LoginPage';
+import { BookingsPage } from '../../Pages/BookingsPage';
 
 test('User can login successfully', async ({ page, context }) => {
   const bookingsPage = new BookingsPage(page);

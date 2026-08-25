@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
-import { LoginPage } from '../../pages/LoginPage';
-import { CustomerPage } from '../../pages/CustomerPage';
+import { LoginPage } from '../../Pages/LoginPage';
+import { CustomerPage } from '../../Pages/CustomerPage';
 
 test('Invite customer and verify customer is created', async ({ page, context }) => {
   const customerPage = new CustomerPage(page);
