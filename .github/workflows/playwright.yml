@@ -47,6 +47,33 @@ jobs:
     - name: Run Playwright tests
       run: npx playwright test
 
+    - name: Check generated Playwright reports
+      if: ${{ !cancelled() }}
+      run: |
+        echo "======================================"
+        echo "Checking Playwright HTML Report"
+        echo "======================================"
+
+        if [ -d "playwright-report" ]; then
+          echo "playwright-report folder EXISTS"
+          echo "Contents:"
+          find playwright-report -maxdepth 2 -type f | head -50
+        else
+          echo "WARNING: playwright-report folder NOT FOUND"
+        fi
+
+        echo "======================================"
+        echo "Checking Test Results"
+        echo "======================================"
+
+        if [ -d "test-results" ]; then
+          echo "test-results folder EXISTS"
+          echo "Contents:"
+          find test-results -maxdepth 3 -type f | head -100
+        else
+          echo "WARNING: test-results folder NOT FOUND"
+        fi
+
     - name: Upload Playwright HTML Report
       uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
